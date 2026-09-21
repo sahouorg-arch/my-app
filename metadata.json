@@ -1,0 +1,7 @@
+{
+  "name": "English M3ak",
+  "description": "Learn English through Moroccan Darija and Modern Standard Arabic with interactive lessons, quizzes, pronunciation, and conversations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
